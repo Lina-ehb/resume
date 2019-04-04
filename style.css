@@ -1,0 +1,211 @@
+
+#name{
+  font-family: 'Quicksand', sans-serif;
+  color: #4E3D42;
+  font-weight: lighter;
+  font-size: 40px;
+  letter-spacing: 4;
+}
+#prez{
+  font-family: 'Quicksand', sans-serif;
+  color: #B88E8D;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-bottom: 20px;
+
+}
+p{
+  font-family: 'Libre Franklin', sans-serif;
+  color: black;
+  font-weight: lighter;
+  font-size: 14px;
+}
+
+body{
+  
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+
+.date {
+  font-family: 'Libre Franklin', sans-serif;
+  color: grey;
+  font-weight: bolder;
+  font-size: 18px;
+
+}
+.text-center{
+  font-family: 'Libre Franklin', sans-serif;
+  color: #B88E8D;
+  font-weight: bolder;
+  font-size: 30px;
+  height:50px;
+  vertical-align:middle;
+  line-height: 50px;
+}
+
+.quality{
+  font-family: 'Libre Franklin', sans-serif;
+  color: black;
+  font-weight: lighter;
+  font-size: 16px; 
+  text-align: center;
+}
+
+.hobby{
+  font-family: 'Libre Franklin', sans-serif;
+  color: black;
+  font-weight: bolder;
+  font-size: 18px; 
+  text-align: center;
+}
+.center{
+  text-align: center;
+}
+
+.element{
+  font-family: 'Libre Franklin', sans-serif;
+  color: black;
+  font-weight: bolder;
+  font-size: 20px;
+  vertical-align:middle;
+  line-height: 50px;
+  text-align: center;
+  background-image: url(images/covermarble.jpg);
+
+}
+
+ul {
+list-style:none;
+margin-left:0;
+padding-left:0;
+}
+li {
+margin-bottom:15px;/* à adapter */
+}
+
+}
+
+h5{
+  font-family: 'Libre Franklin', sans-serif;
+  color: yellow;
+  font-weight: lighter;
+  font-size: 12px;
+}
+
+h2 {
+  font-family: Courier;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: yellow;
+}
+
+.photo {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.audencia {
+  max-width: 100%;
+  height: auto;
+}
+
+#banner{
+  text-align: center;
+  background-image: url(images/covermarble.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+  color: black;
+  font-size: 50px;
+  height: 400px;
+  width: cover;
+  font-family: Arial;
+}
+#banner p {
+  margin-bottom: 40px;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background-color: black;
+  color: lightgrey;
+}
+
+.col-sm-12{
+  background-color: ;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  padding: 10px;
+  margin: 10px 10px 5px 5px;
+  background-image: url(images/darkcover.jpg);
+  vertical-align: center;
+}
+
+.col-sm-6{
+  background-color:#EADEDA;
+  border-radius: 4px;
+  text-align: left;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  padding: 10px 10px 0px 0px;
+  border-color: black;
+  border-width: 5px;
+  vertical-align: center;
+}
+
+.col-sm-4 {
+  background-color:#EADEDA;
+  border-radius: 4px;
+  text-align: left;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  padding: 10px 10px 0px 0px;
+  border-color: black;
+  border-width: 5px;
+  vertical-align: center;
+}
+
+
+
+.col img {
+  margin-bottom: 20px;
+}
+
+
+
+.separator {
+  margin-bottom: 20px;
+}
+
+.rounded-image {
+  border-radius: 50%;
+  margin-bottom: 20px;
+  max-width: 200px;
+}
+
+.image-column {
+  text-align: center;
+}
+
+.last-section {
+  padding-bottom: 50px;
+}
+
+.footer-bottom {
+  min-height: 50px;
+  padding: 15px 0;
+  background-image: url(images/covermarble.jpg);
+}
+
+.social-media-icon {
+  max-width: 40px;
+}
